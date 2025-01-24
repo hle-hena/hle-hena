@@ -6,10 +6,13 @@ I am a student at [42 Perpignan](https://42perpignan.fr/) !
 
 Feel free to ask me anything about 42, I'll gladly answer !
 
-To contact me, you can try this : [<img src="https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="64px" height="64px" align="middle">](https://www.colombophiliefr.com/)
+To contact me, you can try this : <br>[<img src="https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="64px" height="64px">](https://www.colombophiliefr.com/)
 
 
 ## My latest projects are
+
+<a href="https://github.com/hle-hena/minishell" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hle-hena&repo=minishell&theme=vue-dark)</a>
+<a href="https://github.com/hle-hena/42_projects" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hle-hena&repo=42_projects&theme=vue-dark)</a>
 
 ![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
