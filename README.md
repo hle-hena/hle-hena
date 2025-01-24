@@ -10,7 +10,7 @@ Feel free to ask me anything about 42, I'll gladly answer !
 
 ## To contact me, you can try : <br>
 [<img src="https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="64px" height="64px">](https://www.colombophiliefr.com/)
-[<img src = "https://go-skill-icons.vercel.app/api/icons?i=discord">](https://discord.gg/jordan0507)
+[<img src = "https://go-skill-icons.vercel.app/api/icons?i=discord">](https://discord.com/invite/hle-hena)
 [<img src = "https://go-skill-icons.vercel.app/api/icons?i=slack">](https://join.slack.com/shareDM/zt-2yepgjyk6-S1jlqti6qFaKqWm3X5IJvA)
 
 
