@@ -2,14 +2,15 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-@@#f03c15 text
+I am a student at [42 Perpignan](https://42perpignan.fr/) !
 
-I am currently a student at [42 Perpignan](https://42perpignan.fr/) !
+Feel free to ask me anything about 42, I'll gladly answer !
+To contact me, you can try this [](https://www.colombophiliefr.com/);
+
+My latest projects are
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<hr>
 <p align = "center">
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
 </p>
-<hr>
