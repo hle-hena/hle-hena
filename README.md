@@ -22,5 +22,6 @@ Feel free to ask me anything about 42, I'll gladly answer !
 
 ![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" target="blank">
+<p align = "center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" target="blank">
+</p>
