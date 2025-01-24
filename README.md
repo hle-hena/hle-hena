@@ -17,7 +17,7 @@ Feel free to ask me anything about 42, I'll gladly answer !
 
 <p align="center">
 	<a href="https://www.colombophiliefr.com/" target="blank><img src = "https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="48px" height="48px"></a>
-	<a href="https://join.slack.com/shareDM/zt-2yepgjyk6-S1jlqti6qFaKqWm3X5IJvA" target="blank">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack)</a>
+	<a href="https://join.slack.com/shareDM/zt-2yepgjyk6-S1jlqti6qFaKqWm3X5IJvA" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=slack"></a>
 </p>
 
 ![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
