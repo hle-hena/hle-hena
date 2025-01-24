@@ -16,13 +16,13 @@ Feel free to ask me anything about 42, I'll gladly answer !
 ## To contact me, you can try :
 
 <p align="center">
-	<a href="https://www.colombophiliefr.com/" target="blank><img src = "https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="48px" height="48px"></a>
+	<a href="https://www.colombophiliefr.com/" target="blank"><img src="https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="48px" height="48px"></a>
 	<a href="https://join.slack.com/shareDM/zt-2yepgjyk6-S1jlqti6qFaKqWm3X5IJvA" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=slack"></a>
 </p>
 
 ![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
 <p align = "center">
-	[![GitHub Streak](https://streak-stats.demolab.com/?user=hle-hena&theme=dark)](https://git.io/streak-stats)
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+	<img src="https://streak-stats.demolab.com/?user=hle-hena&theme=dark)](https://git.io/streak-stats" target="blank">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" target="blank">
 </p>
