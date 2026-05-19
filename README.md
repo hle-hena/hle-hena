@@ -4,7 +4,9 @@
 
 Low-level C++ engineer focused on rendering and engine architecture. I build systems from scratch — not because there aren't frameworks, but because understanding what happens at the hardware level is where the interesting problems live.
 
-Currently studying at [42 Perpignan](https://42perpignan.fr/), where there are no teachers and progress is driven by self-directed learning and peer code review.
+Currently studying at [42 Perpignan](https://42perpignan.fr/).
+
+Feel free to contact me if you have any question !
 
 ![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
