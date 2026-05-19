@@ -1,27 +1,49 @@
-# Hello, I am Hugo, and welcome to my Github !
+# Hugo Le Henaff
 
-![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
+![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
-I am a student at [42 Perpignan](https://42perpignan.fr/) !
+Low-level C++ engineer focused on rendering and engine architecture. I build systems from scratch — not because there aren't frameworks, but because understanding what happens at the hardware level is where the interesting problems live.
 
-Feel free to ask me anything about 42, I'll gladly answer !
+Currently studying at [42 Perpignan](https://42perpignan.fr/), where there are no teachers and progress is driven by self-directed learning and peer code review.
 
-## My latest projects are
+![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
 
-<a href="https://github.com/hle-hena/hle-hena" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hle-hena&repo=hle-hena&theme=vue-dark)</a>
-<a href="https://github.com/hle-hena/42_projects" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hle-hena&repo=42_projects&theme=vue-dark)</a>
+## Hel-Engine
 
-![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
+A high-performance rendering engine built from the ground up in **C++20** using **Vulkan** as the rendering API.
 
-## To contact me, you can try :
+The goal isn't to replicate existing engines — it's to understand every layer: how data moves from CPU to GPU, where synchronization becomes a bottleneck, and what architectural decisions hold up under real performance constraints.
+
+Systems built so far:
+
+- **Sparse-Set ECS** — cache-efficient entity management designed around data locality
+- **Read/Write queues** — addressing CPU-to-GPU synchronization bottlenecks explicitly
+- **Custom Vulkan wrapper** — reducing API verbosity without hiding what the hardware is doing
+
+→ [View the repository](https://github.com/hle-hena/Hel-Engine)
+
+![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
+
+## Other work
+
+As part of my 42 cursus, I also built a **raycaster** (cub3d) and a **3D wireframe renderer** (FDF) without external graphics libraries — both available on my profile.
+
+Other areas covered during my cursus include real-time physics simulation and SIMD-optimized rendering using SSE/AVX with pthreads.
+
+![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
+
+## Tech
+
+**Core:** C++20 · Vulkan · SIMD (SSE/AVX) · pthreads  
+**Tools:** CMake · Git · Python · Bash  
+**Interests:** Rendering pipelines · Engine architecture · Real-time lighting · GPU performance
+
+![divider](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
+
+## Contact
 
 <p align="center">
-	<a href="https://www.colombophiliefr.com/" target="blank"><img src="https://github.com/hle-hena/hle-hena/blob/main/assets/pigeon.png" width="48px" height="48px"></a>
-	<a href="https://join.slack.com/shareDM/zt-2yepgjyk6-S1jlqti6qFaKqWm3X5IJvA" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=slack"></a>
-</p>
-
-![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
-
-<p align = "center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hle-hena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" target="blank">
+  <a href="https://linkedin.com/in/hle-hena" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn">
+  </a>
 </p>
